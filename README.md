@@ -8,7 +8,7 @@
 
 - 📝 I regularly write some things on [Daybook](Daybook)
 
-- 💬 Ask me about **nodejs,MYSQLI,Expressjs**
+- 💬 Ask me about **nodejs,MYSQLI,Expressjs,Mongodb**
 
 - 📫 How to reach me **kadavesakshi77@gmail.com**
 
