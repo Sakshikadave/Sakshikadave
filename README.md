@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sakshi Kadave</h1>
-<h3 align="center">A passionate Data analyst from India</h3>
+<h3 align="center">A passionate Backend Developer from India</h3>
 
 - 🌱 I’m currently learning **backend.**
 
