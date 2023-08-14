@@ -1,14 +1,14 @@
 
-<h1 align="center">Hi 👋, I'm Sakshi Kadave</h1>
-<h3 align="center">A passionate Backend Developer from India</h3>
+<h1 align="center">Hello 👋, I'm Sakshi Kadave</h1>
+<h3 align="center">A passionate Backend Developer </h3>
 
 - 🌱 I’m currently learning **backend.**
 
-- 👨‍💻 My Project [http://theinnovativesolutions.epizy.com/](http://theinnovativesolutions.epizy.com/)
+- 👨‍💻 My Portfolio [(http://sakshikadave.42web.io/?i=1#home)
 
 - 📝 I regularly write some things on [Daybook](Daybook)
 
-- 💬 Ask me about **nodejs,MYSQLI,Expressjs,Mongodb**
+- 💬 Ask me about **Nodejs,MYSQLI,Expressjs,Mongodb,HTML,CSS,Bootstrap,React basic**
 
 - 📫 How to reach me **kadavesakshi77@gmail.com**
 
