@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **backend.**
 
-- 👨‍💻 My Portfolio http://sakshikadave.42web.io/?i=1#home
+- 👨‍💻 My Portfolio https://sakshi-portfolio-oxix.onrender.com/
 
 - 📝 I regularly write some things on [Daybook](Daybook)
 
